@@ -712,12 +712,12 @@ section.lazy-placeholder:after {
 }
 .cid-s6pGEqiFur .navbar {
   padding: .5rem 0;
-  background: #232323;
+  background: #1dd5df;
   transition: none;
   min-height: 77px;
 }
 .cid-s6pGEqiFur .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #1dd5df;
 }
 .cid-s6pGEqiFur a {
   font-style: normal;
@@ -808,7 +808,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-s6pGEqiFur .dropdown .dropdown-menu {
-  background: #232323;
+  background: #1dd5df;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1116,7 +1116,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6pGEqiFur .nav-link:hover,
 .cid-s6pGEqiFur .dropdown-item:hover {
-  color: #4be83b !important;
+  color: #ee1919 !important;
 }
 .cid-s6qzT0SzDj .mbr-figure {
   margin: 0 auto;
@@ -1263,10 +1263,17 @@ section.lazy-placeholder:after {
   padding-bottom: 75px;
   background-image: url("../../../assets/images/0-1536x500.jpg");
 }
+.cid-sdHE8kvMAQ .mbr-text,
+.cid-sdHE8kvMAQ .mbr-section-btn {
+  color: #f7ed4a;
+}
+.cid-sdHE8kvMAQ H1 {
+  color: #333333;
+}
 .cid-s7sfjy7eKb {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #189ab8;
+  background-color: #8ed4eb;
 }
 .cid-s7sfjy7eKb .content-slider {
   display: -webkit-flex;
@@ -1536,7 +1543,7 @@ section.lazy-placeholder:after {
 .cid-s6OImYiKpf {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #189ab8;
+  background-color: #8ed4eb;
   overflow: hidden;
 }
 .cid-s6OImYiKpf .mbr-slider .carousel-control {
@@ -1626,7 +1633,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-s7sfapLmwS H3 {
-  color: #ff3366;
+  color: #073b4c;
 }
 .cid-s6MAPZpNAZ {
   padding-top: 30px;
@@ -1756,12 +1763,12 @@ section.lazy-placeholder:after {
 }
 .cid-s6pKlCITUf .navbar {
   padding: .5rem 0;
-  background: #232323;
+  background: #1dd5df;
   transition: none;
   min-height: 77px;
 }
 .cid-s6pKlCITUf .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #1dd5df;
 }
 .cid-s6pKlCITUf a {
   font-style: normal;
@@ -1852,7 +1859,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-s6pKlCITUf .dropdown .dropdown-menu {
-  background: #232323;
+  background: #1dd5df;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -2160,7 +2167,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6pKlCITUf .nav-link:hover,
 .cid-s6pKlCITUf .dropdown-item:hover {
-  color: #4be83b !important;
+  color: #ee1919 !important;
 }
 .cid-s6q55MSdC2 {
   padding-top: 90px;
@@ -2302,12 +2309,12 @@ section.lazy-placeholder:after {
 }
 .cid-s6q6sTKzS6 .navbar {
   padding: .5rem 0;
-  background: #232323;
+  background: #1dd5df;
   transition: none;
   min-height: 77px;
 }
 .cid-s6q6sTKzS6 .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #1dd5df;
 }
 .cid-s6q6sTKzS6 a {
   font-style: normal;
@@ -2398,7 +2405,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-s6q6sTKzS6 .dropdown .dropdown-menu {
-  background: #232323;
+  background: #1dd5df;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -2706,7 +2713,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6q6sTKzS6 .nav-link:hover,
 .cid-s6q6sTKzS6 .dropdown-item:hover {
-  color: #4be83b !important;
+  color: #ee1919 !important;
 }
 .cid-s6q6sUwarT {
   padding-top: 90px;
@@ -2952,12 +2959,12 @@ section.lazy-placeholder:after {
 }
 .cid-s6qqAU7E6o .navbar {
   padding: .5rem 0;
-  background: #232323;
+  background: #1dd5df;
   transition: none;
   min-height: 77px;
 }
 .cid-s6qqAU7E6o .navbar-dropdown.bg-color.transparent.opened {
-  background: #232323;
+  background: #1dd5df;
 }
 .cid-s6qqAU7E6o a {
   font-style: normal;
@@ -3048,7 +3055,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-s6qqAU7E6o .dropdown .dropdown-menu {
-  background: #232323;
+  background: #1dd5df;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -3356,7 +3363,7 @@ section.lazy-placeholder:after {
 }
 .cid-s6qqAU7E6o .nav-link:hover,
 .cid-s6qqAU7E6o .dropdown-item:hover {
-  color: #4be83b !important;
+  color: #ee1919 !important;
 }
 .cid-s6qqAUITv6 {
   padding-top: 90px;
